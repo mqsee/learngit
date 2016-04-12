@@ -1,1 +1,2 @@
 demo1.py实现了爬取china daily十篇新闻
+demo2.py实现了爬取china daily十篇新闻并保存到本地.txt中
