@@ -1,1 +1,1 @@
-This is python爬虫练习
+demo1.py实现了爬取china daily十篇新闻
