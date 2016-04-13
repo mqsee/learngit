@@ -119,10 +119,6 @@ fp = open(changeflie,'w+')
 fp.write(res)
 fp.close()
 
-fp = open(changeflie)
-myres = fp.read()
-fp.close()
-
 
 file = 'my.json'
 fp = open(file,'w+')
