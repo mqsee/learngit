@@ -112,5 +112,19 @@ for j in range(10):
 
 res = res.__add__("\t]\n")
 res = res.__add__("}")
-print res
-json.dumps(res)
+#print res
+
+changeflie = 'tf-idf.txt'
+fp = open(changeflie,'w+')
+fp.write(res)
+fp.close()
+
+fp = open(changeflie)
+myres = fp.read()
+fp.close()
+
+
+file = 'my.json'
+fp = open(file,'w+')
+fp.write(json.dumps(res))
+fp.close()
