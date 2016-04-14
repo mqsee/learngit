@@ -1,8 +1,8 @@
 class Solution(object):
     def twoSum(self, nums, target):
-        dict = {}
+        mydict = {}
         for pos,x in enumerate(nums):
-            if(dict.get(target-x,None) == None):
-                dict[x]=pos
+            if(mydict.get(target-x,None) == None):
+                mydict[x]=pos
             else:
-                return dict[target-x],pos
+                return mydict[target-x],pos
