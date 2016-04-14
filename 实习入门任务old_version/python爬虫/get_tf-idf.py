@@ -86,8 +86,6 @@ for j in range(10):
 
   data= {}
 
-
-
   for i in range(mystr.__len__()):
     if mystr[i]=='\n':
       #print mytitle
@@ -117,10 +115,4 @@ res = res.__add__("}")
 changeflie = 'tf-idf.txt'
 fp = open(changeflie,'w+')
 fp.write(res)
-fp.close()
-
-
-file = 'my.json'
-fp = open(file,'w+')
-fp.write(json.dumps(res))
 fp.close()

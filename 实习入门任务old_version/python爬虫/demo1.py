@@ -4,6 +4,7 @@ import urllib
 import urllib2
 import re
 
+
 url = ['http://www.chinadaily.com.cn/china/2016-04/12/content_24471420.htm']
 url.append('http://www.chinadaily.com.cn/china/2016-04/12/content_24470515.htm')
 url.append('http://www.chinadaily.com.cn/china/2016-04/12/content_24465583.htm')
