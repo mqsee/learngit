@@ -1,0 +1,50 @@
+---
+title: 统计每小时注册用户情况
+grammar_abbr: true
+grammar_table: true
+grammar_defList: true
+grammar_emoji: true
+grammar_footnote: true
+grammar_ins: true
+grammar_mark: true
+grammar_sub: true
+grammar_sup: true
+grammar_checkbox: true
+grammar_mathjax: true
+grammar_flow: true
+grammar_sequence: true
+grammar_plot: true
+grammar_code: true
+grammar_highlight: true
+grammar_html: true
+grammar_linkify: true
+grammar_typographer: true
+grammar_video: true
+grammar_audio: true
+grammar_attachment: true
+grammar_mermaid: true
+grammar_classy: true
+grammar_cjkEmphasis: true
+grammar_cjkRuby: true
+grammar_center: true
+grammar_align: true
+grammar_tableExtra: true
+--- 
+
+## 1. _授权情况_
+统计授权的人数，以及在总人数的占比
+统计授权的类型的人数，以及每种类型的占比
+## 2. _打分情况_
+统计打分的人数，以及在授权人数的占比
+统计不同类型打分的人数，以及在打分人数中的占比
+## 3.  _IP与地址的情况_
+统计有设备IP的人数，以及在总人数的占比
+统计不同设备类型的人数，以及每种类型的占比
+## 4. _经纬度与地址的情况_
+统计有经纬度的人数，以及在总人数的占比
+统计不同设备类型的经纬度的人数，以及每种类型的占比
+## 5.  _ip地址与注册地址的情况_
+统计ip地址和注册地址匹配的人数，以及在总人数的占比
+## 6. _预警功能_
+打分人数占授权人数比例低于15%时候预警
+
