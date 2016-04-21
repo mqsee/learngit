@@ -17,16 +17,16 @@ leetcode已更新
 ### leetcode文件夹中内容
 #### 1.字符串操作
 
->##### 对应 reverse.py 实现字符串的翻转[leetcode地址]("https://leetcode.com/problems/reverse-words-in-a-string/")
->##### 对应 palindrome.py 判断一个字符串是否是回文串[leetcode地址]("https://leetcode.com/problems/valid-palindrome/")
+>##### 对应 reverse.py 实现字符串的翻转[leetcode地址](https://leetcode.com/problems/reverse-words-in-a-string/)
+>##### 对应 palindrome.py 判断一个字符串是否是回文串[leetcode地址](https://leetcode.com/problems/valid-palindrome/)
 
 #### 2.Hash操作
->##### 对应 two-sum.py 寻找两个数之和等于target[leetcode地址]("https://leetcode.com/problems/two-sum/")
+>##### 对应 two-sum.py 寻找两个数之和等于target[leetcode地址](https://leetcode.com/problems/two-sum/)
 
 #### 3.List操作
->##### 对应 triangle1.py 输出图形[leetcode地址]("https://leetcode.com/problems/pascals-triangle/")
->##### 对应 triangle2.py 输出图形[ leetcode地址 ]("https://leetcode.com/problems/pascals-triangle-ii/")
+>##### 对应 triangle1.py 输出图形[leetcode地址](https://leetcode.com/problems/pascals-triangle/)
+>##### 对应 triangle2.py 输出图形[ leetcode地址 ](https://leetcode.com/problems/pascals-triangle-ii/)
 
 #### 4.递归
->##### 对应 majority-element.py 寻找数组中众数 [ leetcode地址 ]("https://leetcode.com/problems/majority-element/")
->##### 对应 maxSubArray.py 输出最大连续子串和[ leetcode地址 ]("https://leetcode.com/problems/maximum-subarray/")
+>##### 对应 majority-element.py 寻找数组中众数 [ leetcode地址 ](https://leetcode.com/problems/majority-element/)
+>##### 对应 maxSubArray.py 输出最大连续子串和[ leetcode地址 ](https://leetcode.com/problems/maximum-subarray/)
