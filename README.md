@@ -6,12 +6,13 @@
 ##### (编写时间:4.7-4.12)
 
 #### new_version中是更新以后的代码。
-leetcode已更新
+>#### leetcode已更新
 >##### 1.使用了enumerate
 >##### 2.使用python内部自带字符串翻转函数s[::-1]
 >##### 3.使用了list的reverse，append，sum，sorted等函数
-##### tf-idf_static:使用HTTP request请求，BeautifulSoup提取新闻标题和内容
-##### 统计TF-IDF选取每篇新闻的top10保存到json文件中
+>####  tf-idf_static已更新
+>##### tf-idf_static:使用HTTP request请求，BeautifulSoup提取新闻标题和内容
+>##### 统计TF-IDF选取每篇新闻的top10保存到json文件中
 
 ### 功能详解
 ### leetcode文件夹中内容
