@@ -1,0 +1,12 @@
+*.zip
+*.csv
+/.idea/
+*.iml
+*.xml
+*.piece
+*.ipynb
+.idea
+/实习入门任务new_version/.idea/
+/实习入门任务new_version/leetcode/.idea/
+/实习入门任务old_version/leetcode/.idea/
+/实习入门任务old_version/python爬虫/.idea/
